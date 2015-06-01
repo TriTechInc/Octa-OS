@@ -1,0 +1,17 @@
+Hello, My name is Octa...
+
+I'm a voice guided system that does not like to get bullied.
+I'm based on kubuntu 15.04
+    If not able to detect voice:
+I'm sorry, but your microphone is not online.
+    Voice detection is online:
+Welcome to Octa OS... Please say "Ah" so OOS can idetify the voice.
+Please make a account:
+Full Name:
+Username:
+Voice Sample:
+Password (Yes/No):
+Computer name:
+Thank You, now the system shal do what you say. If you wish to install, please say "OOS Install" If you want the whole HDD, say "Full". If you want a selected partion, say "Part". There is also a non-voice guided system if you want.
+
+WELCOME TO Octa OS...
